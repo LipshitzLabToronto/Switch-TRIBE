@@ -1,0 +1,3 @@
+assay	sample_id	condition_or_cell_type	replicate	read1_fastq	read2_fastq	target_sequence_file	barcode_list_file	genome_fasta	genome_gtf	annotation_bed	observed_sam	count_table	source_run_id	sha256
+bulk	REPLACE	REPLACE	1	REPLACE	REPLACE	NA	NA	REPLACE	REPLACE	REPLACE	REPLACE	REPLACE	REPLACE	REPLACE
+single_cell	REPLACE	REPLACE	NA	REPLACE	REPLACE	REPLACE	REPLACE	REPLACE	REPLACE	REPLACE	REPLACE	REPLACE	REPLACE	REPLACE

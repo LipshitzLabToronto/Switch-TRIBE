@@ -1,0 +1,19 @@
+name: switch-tribe-reproducibility
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - r-base
+  - r-dplyr
+  - perl
+  - perl-dbi
+  - perl-dbd-mysql
+  - mysql-client
+  - star=2.7.11b
+  - samtools
+  - seqkit
+  - bedtools
+  - trimmomatic
+  - picard
+  - openjdk

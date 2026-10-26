@@ -1,0 +1,16 @@
+assay	sample_id	table_name	experiment	timepoint	fastq	sam
+bulk	BRAT_TRIBE_rep1	BRAT_BULK_REP_1	rnalibs	1	/path/to/BRAT_TRIBE_rep1.fastq.gz	
+bulk	BRAT_TRIBE_rep2	BRAT_BULK_REP_2	rnalibs	1	/path/to/BRAT_TRIBE_rep2.fastq.gz	
+bulk	BRAT_TRIBE_rep3	BRAT_BULK_REP_3	rnalibs	1	/path/to/BRAT_TRIBE_rep3.fastq.gz	
+bulk	MEI-P26_TRIBE_merge_rep1	MEIP26_BULK_REP_1	rnalibs	1	/path/to/MEI-P26_TRIBE_merge_rep1.fastq.gz	
+bulk	MEI-P26_TRIBE_merge_rep2	MEIP26_BULK_REP_2	rnalibs	1	/path/to/MEI-P26_TRIBE_merge_rep2.fastq.gz	
+bulk	MEI-P26_TRIBE_merge_rep3	MEIP26_BULK_REP_3	rnalibs	1	/path/to/MEI-P26_TRIBE_merge_rep3.fastq.gz	
+bulk	insc_rep1	CTRL_INSC_REP_1	rnalibs	1	/path/to/insc_rep1.fastq.gz	
+bulk	insc_rep2	CTRL_INSC_REP_2	rnalibs	1	/path/to/insc_rep2.fastq.gz	
+bulk	insc_rep3	CTRL_INSC_REP_3	rnalibs	1	/path/to/insc_rep3.fastq.gz	
+bulk	YH98_rep1	CTRL_YH98_REP_1	rnalibs	1	/path/to/YH98_rep1.fastq.gz	
+bulk	YH98_rep2	CTRL_YH98_REP_2	rnalibs	1	/path/to/YH98_rep2.fastq.gz	
+bulk	YH98_rep3	CTRL_YH98_REP_3	rnalibs	1	/path/to/YH98_rep3.fastq.gz	
+bulk	MEI-P26_ex4o_rep1	MEIP26_EX4O_REP1	rnalibs	1	/path/to/rep1_ex4o_R1.fastq	
+bulk	MEI-P26_ex4o_rep2	MEIP26_EX4O_REP2	rnalibs	1	/path/to/rep2_ex4o_R1.fastq	
+bulk	MEI-P26_ex4o_rep3	MEIP26_EX4O_REP3	rnalibs	1	/path/to/rep3_ex4o_R1.fastq	

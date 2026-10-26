@@ -1,0 +1,17 @@
+assay	sample_id	table_name	experiment	timepoint	fastq	sam
+single_cell	BRAT_DIM15_NB	BRAT_SC_DIM15_NB	rnalibs	1		generated during preprocess
+single_cell	BRAT_DIM15_INP	BRAT_SC_DIM15_INP	rnalibs	1		generated during preprocess
+single_cell	BRAT_DIM15_GMCTI	BRAT_SC_DIM15_GMCT1	rnalibs	1		generated during preprocess
+single_cell	BRAT_DIM15_GMCTII	BRAT_SC_DIM15_GMCT2	rnalibs	1		generated during preprocess
+single_cell	BRAT_DIM15_Neuron_T1T2	BRAT_SC_DIM15_Neuron_T1T2	rnalibs	1		generated during preprocess
+single_cell	BRAT_DIM15_Neuron_else_1	BRAT_SC_DIM15_Neuron_else_1	rnalibs	1		generated during preprocess
+single_cell	BRAT_DIM15_Neuron_else_2	BRAT_SC_DIM15_Neuron_else_2	rnalibs	1		generated during preprocess
+single_cell	BRAT_DIM15_Glia_T1T2	BRAT_SC_DIM15_Glia_T1T2	rnalibs	1		generated during preprocess
+single_cell	BRAT_DIM15_Glia_else	BRAT_SC_DIM15_Glia_else	rnalibs	1		generated during preprocess
+single_cell	MEIP26_NB	MEIP26_SC_NB	rnalibs	1		generated during preprocess
+single_cell	MEIP26_INP	MEIP26_SC_INP	rnalibs	1		generated during preprocess
+single_cell	MEIP26_GMCTI	MEIP26_SC_GMCT1	rnalibs	1		generated during preprocess
+single_cell	MEIP26_GMCTII	MEIP26_SC_GMCT2	rnalibs	1		generated during preprocess
+single_cell	MEIP26_Neuron_T1T2	MEIP26_SC_Neuron_T1T2	rnalibs	1		generated during preprocess
+single_cell	MEIP26_Neuron_else	MEIP26_SC_Neuron_else	rnalibs	1		generated during preprocess
+single_cell	MEIP26_Glia	MEIP26_SC_Glia	rnalibs	1		generated during preprocess
